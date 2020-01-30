@@ -173,5 +173,5 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-Line is inserted to understand Jenkin jobs-Anita
+Line is inserted to understand Jenkin jobs
 	END OF TERMS AND CONDITIONS
